@@ -55,8 +55,11 @@
 		methods: {
 			signIn(response){
 				this.successMessage = `Вы вошли как ${response.email}`;
-				this.$emit("signInUser", {email: response.email, userId: response.uid});
-				this.$router.push({ path: 'products' })
+				let currentUser = {
+					userId: response.uid,
+					userEmail: response.email
+				};
+				this.$router.push( { name: 'products', params: {currentUser: currentUser}} )
 			},
 			authorizationUser(){
 				if(this.signView === 'sign-in'){

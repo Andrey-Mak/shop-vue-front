@@ -6,10 +6,10 @@ import Authorization from "./components/Authorization"
 import ProductInfo from "./components/Product-info"
 
 const routes = [
-	{path: '/', component: Authorization},
-	{path: '/sign', component: Authorization},
-	{path: '/products', component: ProductsList},
-	{path: '/products/:id', component: ProductInfo}
+	{ path: '/', component: Authorization },
+	{ path: '/sign', name: "sign", component: Authorization },
+	{ path: '/products', name: "products", component: ProductsList, props: true },
+	{ path: '/product/:productId', name: "product", component: ProductInfo, props: true }
 ];
 const router = new VueRouter({
 	routes

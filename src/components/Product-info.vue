@@ -1,17 +1,16 @@
 <template>
 	<div class="product container">
-		<div class="row row-offcanvas row-offcanvas-right">
-			<div class="col-xs-12 col-sm-9">
+		<div class="row">
+			<router-link class="col-xs-1 col-sm-1" :to="{ name: 'products'}">
+				<h1 class="navbar-brand" href="#">Назад</h1>
+			</router-link>
+			<div class="col-xs-11 col-sm-11">
 				<div class="jumbotron">
-					<h1>Hello, world! </h1>
-					<p>This is an example to show the potential of an offcanvas layout pattern in Bootstrap. Try some responsive-range viewport sizes to see it in action.</p>
-				</div>
-				<div class="row">
-					<div class="col-xs-6 col-lg-4">
-						<h2>Heading</h2>
-						<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-						<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
-					</div>
+					<div v-html="product.image"></div>
+					<h4>{{product.title}}</h4>
+					<h5>{{product.price}} грн</h5>
+					<p v-html="product.description"></p>
+					<a class="btn btn-default" href="#" role="button" @click="addToBasket">Добавить в корзину</a>
 				</div>
 			</div>
 		</div>
@@ -21,9 +20,15 @@
 <script>
 	export default {
 		name: 'product-info',
+		props: ["productId", "product"],
 		data() {
 			return {
-
+				basket: []
+			}
+		},
+		methods: {
+			addToBasket(){
+				this.basket.push(product);
 			}
 		}
 	}

@@ -1,6 +1,7 @@
 {
   "goods": [
     {
+      "id": 0,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
@@ -9,6 +10,7 @@
       "sell_status": "available"
     },
     {
+      "id": 1,
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
@@ -17,6 +19,7 @@
       "sell_status": "available"
     },
     {
+      "id": 3,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
       "price": "12999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
@@ -25,6 +28,7 @@
       "sell_status": "available"
     },
     {
+      "id": 4,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
@@ -33,6 +37,7 @@
       "sell_status": "available"
     },
     {
+      "id": 5,
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
@@ -41,6 +46,7 @@
       "sell_status": "available"
     },
     {
+      "id": 6,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
       "price": "12999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
@@ -49,6 +55,7 @@
       "sell_status": "available"
     },
     {
+      "id": 7,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
@@ -57,6 +64,7 @@
       "sell_status": "available"
     },
     {
+      "id": 8,
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
@@ -65,6 +73,7 @@
       "sell_status": "available"
     },
     {
+      "id": 9,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
       "price": "12999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
@@ -73,6 +82,7 @@
       "sell_status": "available"
     },
     {
+      "id": 10,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
@@ -81,6 +91,7 @@
       "sell_status": "available"
     },
     {
+      "id": 11,
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
@@ -89,6 +100,7 @@
       "sell_status": "available"
     },
     {
+      "id": 12,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
       "price": "12999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
@@ -97,6 +109,7 @@
       "sell_status": "available"
     },
     {
+      "id": 13,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
@@ -105,6 +118,7 @@
       "sell_status": "available"
     },
     {
+      "id": 14,
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
@@ -113,6 +127,7 @@
       "sell_status": "available"
     },
     {
+      "id": 15,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
       "price": "12999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
@@ -121,6 +136,7 @@
       "sell_status": "available"
     },
     {
+      "id": 16,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
@@ -129,6 +145,7 @@
       "sell_status": "available"
     },
     {
+      "id": 17,
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
@@ -137,6 +154,7 @@
       "sell_status": "available"
     },
     {
+      "id": 18,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
       "price": "12999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
@@ -145,6 +163,7 @@
       "sell_status": "available"
     },
     {
+      "id": 19,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
@@ -153,6 +172,7 @@
       "sell_status": "available"
     },
     {
+      "id": 20,
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
@@ -161,6 +181,7 @@
       "sell_status": "available"
     },
     {
+      "id": 21,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
       "price": "12999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
@@ -169,6 +190,7 @@
       "sell_status": "available"
     },
     {
+      "id": 22,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
@@ -177,6 +199,7 @@
       "sell_status": "available"
     },
     {
+      "id": 23,
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
@@ -185,6 +208,7 @@
       "sell_status": "available"
     },
     {
+      "id": 24,
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
       "price": "12999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
@@ -193,6 +217,7 @@
       "sell_status": "available"
     },
     {
+      "id": 25,
       "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
       "price": "17999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
@@ -201,6 +226,7 @@
       "sell_status": "available"
     },
     {
+      "id": 26,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
       "price": "15999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
@@ -209,6 +235,7 @@
       "sell_status": "available"
     },
     {
+      "id": 27,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
       "price": "15999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
@@ -217,6 +244,7 @@
       "sell_status": "available"
     },
     {
+      "id": 28,
       "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
       "price": "17999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
@@ -225,6 +253,7 @@
       "sell_status": "available"
     },
     {
+      "id": 29,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
       "price": "15999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
@@ -233,6 +262,7 @@
       "sell_status": "available"
     },
     {
+      "id": 30,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
       "price": "15999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
@@ -241,6 +271,7 @@
       "sell_status": "available"
     },
     {
+      "id": 31,
       "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
       "price": "17999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
@@ -249,6 +280,7 @@
       "sell_status": "available"
     },
     {
+      "id": 32,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
       "price": "15999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
@@ -257,6 +289,7 @@
       "sell_status": "available"
     },
     {
+      "id": 33,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
       "price": "15999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
@@ -265,6 +298,7 @@
       "sell_status": "available"
     },
     {
+      "id": 34,
       "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
       "price": "17999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
@@ -273,6 +307,7 @@
       "sell_status": "available"
     },
     {
+      "id": 35,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
       "price": "15999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
@@ -281,6 +316,7 @@
       "sell_status": "available"
     },
     {
+      "id": 36,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
       "price": "15999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
@@ -289,6 +325,7 @@
       "sell_status": "available"
     },
     {
+      "id": 37,
       "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
       "price": "17999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
@@ -297,6 +334,7 @@
       "sell_status": "available"
     },
     {
+      "id": 38,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
       "price": "15999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
@@ -305,6 +343,7 @@
       "sell_status": "available"
     },
     {
+      "id": 39,
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
       "price": "15999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
@@ -313,6 +352,7 @@
       "sell_status": "available"
     },
     {
+      "id": 40,
       "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
       "price": "17999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",

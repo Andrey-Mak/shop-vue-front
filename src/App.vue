@@ -4,11 +4,13 @@
 			<nav class="navbar navbar-fixed-top navbar-inverse">
 				<div class="container">
 					<div class="navbar-header col-xs-8 col-md-8">
-						<h1 class="navbar-brand" href="#">Test Shop(Vue2 js)</h1>
+						<router-link :to="{ name: 'products'}">
+							<h1 class="navbar-brand" href="#">Test Shop(Vue2 js)</h1>
+						</router-link>
 					</div>
 
 					<div class="left col-xs-4 col-md-2">
-						<p class="current-email" @signInUser="user = $event" v-if="user.email">{{user.email}}</p>
+						<p class="current-email" v-if="currentUser">Вы вошли как {{currentUser.userEmail}}</p>
 						<router-link to="/sign" v-else>
 							<a class="btn btn-default" href="#" role="button">Войти/Зарегистрироваться</a>
 						</router-link>
@@ -29,6 +31,7 @@
 
 	export default {
 		name: 'main',
+		props: ['user'],
 		components: {
 			ProductsList,
 			Authorization,
@@ -36,7 +39,12 @@
 		},
 		data() {
 			return {
-				user: {}
+
+			}
+		},
+		computed: {
+			currentUser () {
+				return this.$route.params.currentUser;
 			}
 		}
 	}
@@ -52,6 +60,7 @@
 		color: #2c3e50;
 		padding-top: 70px;
 	}
+
 	.navbar {
 		height: 70px;
 	}
@@ -60,7 +69,10 @@
 		list-style-type: none;
 		padding: 0;
 	}
-
+	.current-email{
+		color: #fff;
+		text-decoration: underline;
+	}
 	li {
 		display: inline-block;
 		margin: 0 10px;

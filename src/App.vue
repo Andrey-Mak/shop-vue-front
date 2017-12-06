@@ -10,43 +10,45 @@
 					</div>
 
 					<div class="left col-xs-4 col-md-2">
-						<p class="current-email" v-if="currentUser">Вы вошли как {{currentUser.userEmail}}</p>
+						<p class="current-email" v-if="userEmail">Вы вошли как {{userEmail}}</p>
 						<router-link to="/sign" v-else>
-							<a class="btn btn-default" href="#" role="button">Войти/Зарегистрироваться</a>
+							<a class="btn btn-default" href="#">Войти/Зарегистрироваться</a>
 						</router-link>
 					</div>
 				</div>
 			</nav>
 		</header>
-		<section id="main">
+		<article id="main">
 			<router-view></router-view>
-		</section>
+		</article>
 	</div>
 </template>
 
 <script>
 	import ProductsList from "./components/Products-list"
 	import Authorization from "./components/Authorization"
-	import ProductInfo from "./components/Product-info"
 
 	export default {
 		name: 'main',
-		props: ['user'],
 		components: {
 			ProductsList,
-			Authorization,
-			ProductInfo
+			Authorization
 		},
 		data() {
 			return {
-
+				userId: '',
+				userEmail: ""
 			}
 		},
-		computed: {
-			currentUser () {
-				return this.$route.params.currentUser;
+		watch: {
+			'$route'(to, from) {
+				if(this.$route.params.currentUser){
+					this.userEmail = this.$route.params.currentUser.userEmail;
+					this.userId = this.$route.params.currentUser.userId;
+				}
 			}
 		}
+
 	}
 </script>
 

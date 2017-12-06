@@ -1,626 +1,128 @@
 {
   "goods": [
     {
-      "id": 0,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
+      "id": "000",
+      "title": "Samsung Galaxy A7 2016 Duos SM-A720 Blue",
       "price": "12999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
+      "url": "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 1,
+      "id": "001",
       "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
       "price": "11999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
+      "url": "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 3,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 4,
+      "id": "002",
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
-      "price": "12999",
+      "price": "13999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
+      "url": "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 5,
-      "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
-      "price": "11999",
+      "id": "003",
+      "title": "Samsung Galaxy A5 2015 Duos SM-A420 Gold",
+      "price": "9999",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
+      "url": "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 6,
+      "id": "004",
+      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
+      "price": "17000",
+      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\">",
+      "url": "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
+      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
+      "sell_status": "available"
+    },
+    {
+      "id": "005",
+      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
+      "price": "16000",
+      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
+      "url": "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
+      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
+      "sell_status": "available"
+    },
+    {
+      "id": "006",
+      "title": "LG G6 Black",
+      "price": "19999",
+      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1892329\/copy_lg_lgh845_acistn_58d8fc4a87d51_images_1892329932.jpg\" width=\"72\" height=\"150\" alt=\"LG G6 Black\" title=\"LG G6 Black\">",
+      "url": "https:\/\/rozetka.com.ua\/lg_lgh870ds_acisbk\/p15213614\/",
+      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
+      "sell_status": "available"
+    },
+    {
+      "id": "007",
       "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
-      "price": "12999",
+      "price": "10000",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
+      "url": "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 7,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 8,
-      "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
-      "price": "11999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 9,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 10,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 11,
-      "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
-      "price": "11999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 12,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 13,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 14,
-      "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
-      "price": "11999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 15,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 16,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 17,
-      "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
-      "price": "11999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 18,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 19,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 20,
-      "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
-      "price": "11999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 21,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 22,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Blue",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/1828066\/samsung_sm_a720fzbdsek_images_1828066611.jpg\" width=\"75\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Blue\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzbdsek\/p13252337\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 23,
-      "title": "Samsung Galaxy A5 2017 Duos SM-A520 Gold",
-      "price": "11999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828052\/samsung_sm_a520fzddsek_images_1828052681.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\" title=\"Samsung Galaxy A5 2017 Duos SM-A520 Gold\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a520fzddsek\/p13252218\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 24,
-      "title": "Samsung Galaxy A7 2017 Duos SM-A720 Black",
-      "price": "12999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/1828059\/samsung_sm_a720fzkdsek_images_1828059149.jpg\" width=\"74\" height=\"150\" alt=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\" title=\"Samsung Galaxy A7 2017 Duos SM-A720 Black\">",
-      "url":  "https:\/\/rozetka.com.ua\/samsung_sm_a720fzkdsek\/p13252267\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 25,
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 26,
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 27,
+      "id": "008",
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
       "price": "15999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
+      "url": "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 28,
+      "id": "009",
       "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
+      "price": "18999",
+      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\">",
+      "url": "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 29,
+      "id": "0010",
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
       "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
+      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\">",
+      "url": "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 30,
+      "id": "0011",
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
+      "price": "14999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
+      "url": "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 31,
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 32,
+      "id": "0012",
       "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
+      "price": "15000",
       "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
+      "url": "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     },
     {
-      "id": 33,
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 34,
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 35,
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 36,
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 37,
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 38,
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 39,
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "id": 40,
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Plus 4\/64GB (VKY-L29) Blue",
-      "price": "17999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094341\/copy_huawei_p10_plus_464_bk_596f2f6a684c4_images_2094341431.jpg\" width=\"72\" height=\"150\" alt=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\" title=\"Huawei P10 Plus 4\/64GB (VKY-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19383203<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_plus_464_bl\/p19383203\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Blue",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i1.rozetka.ua\/goods\/2094364\/copy_huawei_p10_premium_464_bk_596f37a1ac2bd_images_2094364930.jpg\" width=\"73\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Blue\"><div class=\"g-id\" style=\"display:none\">19386556<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_bl\/p19386556\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
-      "title": "Huawei P10 Premium 4\/64GB (VTR-L29) Green",
-      "price": "15999",
-      "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2131742\/huawei_p10_premium_464_gr_images_2131742161.jpg\" width=\"74\" height=\"150\" alt=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\" title=\"Huawei P10 Premium 4\/64GB (VTR-L29) Green\"><div class=\"g-id\" style=\"display:none\">20755831<\/div>",
-      "url":  "https:\/\/rozetka.com.ua\/huawei_p10_premium_464_gr\/p20755831\/",
-      "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
-      "sell_status": "available"
-    },
-    {
+      "id": "0013",
       "title": "Nokia 8 Dual Sim Steel + сертификат 1800 в подарок!",
       "price": "18999",
       "image": "<img src=\"https:\/\/i2.rozetka.ua\/goods\/2152139\/copy_nokia_8_ds_polished_blue_599ad567730a9_images_2152139473.jpg\" width=\"74\" height=\"150\" alt=\"Nokia 8 Dual Sim Steel + сертификат 1800 в подарок!\" title=\"Nokia 8 Dual Sim Steel + сертификат 1800 в подарок!\">",
-      "url":  "https:\/\/rozetka.com.ua\/nokia_8_ds_steel\/p21280813\/",
+      "url": "https:\/\/rozetka.com.ua\/nokia_8_ds_steel\/p21280813\/",
       "description": "<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab assumenda dicta error nesciunt officia porro sapiente suscipit, veniam. Asperiores culpa doloribus dolorum ducimus est expedita magnam officiis quasi quidem!</span>",
       "sell_status": "available"
     }

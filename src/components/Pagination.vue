@@ -1,11 +1,11 @@
 <template>
-	<div class="pagination container">
+	<article class="pagination container">
 		<ul class="col-sm-12">
-			<li v-for="(page, index) in pages" @click="gotoCurrentPage(index)" :class="{active: index == currentPage}">
-				<a class="btn btn-default" href="#">{{index}}</a>
+			<li v-for="(index) in pages" :class="{active: index-1 == currentPage}">
+				<a class="btn btn-default" href="#" @click.prevent="gotoCurrentPage(index-1)">{{index}}</a>
 			</li>
 		</ul>
-	</div>
+	</article>
 </template>
 
 <script>
@@ -15,15 +15,18 @@
 		props: ["pages", "current"],
 		data() {
 			return {
-				currentPage: this.current
+				currentPage: this.current || 0
+			}
+		},
+		watch: {
+			'$route'(to, from) {
+				this.currentPage = parseInt(to.query.page) || this.currentPage;
 			}
 		},
 		methods: {
 			gotoCurrentPage(page){
-				console.log( "page", page);
 				this.currentPage = page;
-				console.log( "this.current", this.currentPage);
-				this.$emit("changePage", page)
+				this.$router.push({ path: "/products", query: { page: page + "" }});
 			}
 		}
 	}
